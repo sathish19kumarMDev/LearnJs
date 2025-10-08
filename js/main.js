@@ -1,6 +1,6 @@
 //strings
-myVariable = "Mathematics"
+const myVariable = "Mathematics"
 
 
 
-console.log(myVariable.charAt(0)) //11;
+console.log(myVariable.split("")); 
